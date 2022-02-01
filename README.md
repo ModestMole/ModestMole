@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ModestMole
+- 👀 I’m interested in knowing more than I know now.
+- 🌱 I’m currently aimlessly learning C, Python.
+- 💞️ I’m looking to collaborate on anything if you'll have me.
+- 📫 How to reach me: nv.phoni@gmail.com
